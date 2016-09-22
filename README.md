@@ -1,12 +1,10 @@
 ﻿Operating the XY Plotter with MDraw
 ===================================
 
-*Jonathan T. Younker*
-
-*Head, Library Systems & Technologies*
-
 **Before you start: do you have the right drivers? You won’t see the
 right comm port in mDraw if you don’t!**
+
+**DO NOT CLICK THE ‘UPDATE FIRMWARE’ BUTTON AT ANY TIME IN THIS PROCESS! **
 
 1.  Make sure the XY Plotter is turned off (black switch on mainboard)
     and the USB is unplugged
@@ -22,9 +20,6 @@ right comm port in mDraw if you don’t!**
 5.  Turn XY Plotter on
 
 6.  Start MDraw
-
-    a.  **DO NOT CLICK THE ‘UPDATE FIRMWARE’ BUTTON AT ANY TIME IN THIS
-        PROCESS! **
 
 7.  In top right drop-down in MDraw, select ‘XY’
 
